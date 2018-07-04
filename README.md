@@ -321,8 +321,7 @@ AE7s0V5C5P0CeETDTjxI/5JrRNmrsJob9B+ilH9uF8DLo0a+K7/IhA==
 -----END RSA PRIVATE KEY-----
 
 
-
-      ## myprivatekey.ppk file
+## myprivatekey.ppk file
   
 ``` 
   PuTTY-User-Key-File-2: ssh-rsa
